@@ -1,2 +1,2 @@
-# 100GIB- digital clock
+# Digital clock
 open the html file to view the clock
